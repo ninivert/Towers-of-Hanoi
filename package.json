@@ -1,0 +1,14 @@
+{
+  "name": "hanoi",
+  "version": "1.0.0",
+  "description": "C++ implementation came first\\\r JS implementation is used to generate the frames of a video file compiled with `ffmpeg`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Niels Vadot",
+  "license": "ISC",
+  "devDependencies": {
+    "canvas": "^2.1.0"
+  }
+}
