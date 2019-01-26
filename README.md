@@ -4,8 +4,6 @@
 
 [Live codepen demo](https://codepen.io/ninivert/full/xMZogK)
 
-<iframe width="1042" height="586" src="https://www.youtube.com/embed/dSTopbI-VZY?list=PLbdJZHRJVb0dYOcV3DhiXwWwPc5Zcl4qz" frameborder="0" allowfullscreen></iframe>
-
 ## Recent changes
 
 - Optimizations: only generate the frames _needed_ for the timelapse
